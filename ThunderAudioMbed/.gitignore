@@ -1,0 +1,10 @@
+build/
+*.gcda
+utensor-model/
+tflite-model/
+model-parameters/
+edge-impulse-sdk
+deploy.zip
+BUILD
+.mbed
+I2S
